@@ -1,0 +1,618 @@
+[
+  {
+    "level": "C2",
+    "question": "How do you determine whether clarity or ambiguity is more appropriate in a given situation?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you recognize when a problem cannot be solved but must be managed?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you decide which complexities deserve deeper analysis and which do not?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you distinguish insight from overinterpretation?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you evaluate the reliability of your own reasoning?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you identify hidden assumptions in your thinking?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you decide when certainty is necessary and when doubt is productive?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you balance intellectual rigor with practical constraints?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you approach problems that resist linear solutions?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you remain open to revision without losing coherence?"
+  },
+  {
+    "level": "C2",
+    "question": "What criteria do you use to judge the quality of an argument?"
+  },
+  {
+    "level": "C2",
+    "question": "What factors most often distort otherwise sound reasoning?"
+  },
+  {
+    "level": "C2",
+    "question": "What patterns do you notice when discussions become unproductive?"
+  },
+  {
+    "level": "C2",
+    "question": "What makes certain explanations feel satisfying even when they are incomplete?"
+  },
+  {
+    "level": "C2",
+    "question": "What kinds of questions tend to expose deeper layers of understanding?"
+  },
+  {
+    "level": "C2",
+    "question": "What intellectual habits have you consciously cultivated over time?"
+  },
+  {
+    "level": "C2",
+    "question": "What habits of thought have you had to unlearn?"
+  },
+  {
+    "level": "C2",
+    "question": "What mental shortcuts do you actively try to avoid?"
+  },
+  {
+    "level": "C2",
+    "question": "What forms of complexity energize rather than exhaust you?"
+  },
+  {
+    "level": "C2",
+    "question": "What kinds of ambiguity do you find intellectually useful?"
+  },
+  {
+    "level": "C2",
+    "question": "What sustains long-term intellectual curiosity?"
+  },
+  {
+    "level": "C2",
+    "question": "What undermines curiosity even in motivated individuals?"
+  },
+  {
+    "level": "C2",
+    "question": "What makes reflection transformative rather than repetitive?"
+  },
+  {
+    "level": "C2",
+    "question": "What allows insight to translate into action?"
+  },
+  {
+    "level": "C2",
+    "question": "What prevents understanding from becoming paralysis?"
+  },
+  {
+    "level": "C2",
+    "question": "What makes certain ideas persist despite weak evidence?"
+  },
+  {
+    "level": "C2",
+    "question": "What causes well-intentioned reasoning to lead to poor outcomes?"
+  },
+  {
+    "level": "C2",
+    "question": "What distinguishes depth from obscurity in communication?"
+  },
+  {
+    "level": "C2",
+    "question": "What makes an idea robust across contexts?"
+  },
+  {
+    "level": "C2",
+    "question": "What makes a conclusion feel provisional rather than final?"
+  },
+  {
+    "level": "C2",
+    "question": "How important is uncertainty as a tool for understanding?"
+  },
+  {
+    "level": "C2",
+    "question": "How important is intellectual humility in complex decision-making?"
+  },
+  {
+    "level": "C2",
+    "question": "How important is coherence compared to adaptability?"
+  },
+  {
+    "level": "C2",
+    "question": "How important is precision when addressing abstract concepts?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your tolerance for ambiguity evolved?"
+  },
+  {
+    "level": "C2",
+    "question": "How has experience reshaped your confidence in your judgments?"
+  },
+  {
+    "level": "C2",
+    "question": "How has exposure to different perspectives altered your thinking patterns?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your understanding of complexity matured?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your relationship with certainty changed over time?"
+  },
+  {
+    "level": "C2",
+    "question": "What experiences revealed the limits of your previous assumptions?"
+  },
+  {
+    "level": "C2",
+    "question": "What experiences forced you to reconsider deeply held beliefs?"
+  },
+  {
+    "level": "C2",
+    "question": "What challenges exposed gaps between theory and practice?"
+  },
+  {
+    "level": "C2",
+    "question": "What failures refined your judgment more than success ever did?"
+  },
+  {
+    "level": "C2",
+    "question": "What contradictions have proven most instructive for you?"
+  },
+  {
+    "level": "C2",
+    "question": "What tensions do you now see as productive rather than problematic?"
+  },
+  {
+    "level": "C2",
+    "question": "What trade-offs are unavoidable in most meaningful decisions?"
+  },
+  {
+    "level": "C2",
+    "question": "What strategies help you reason clearly under cognitive load?"
+  },
+  {
+    "level": "C2",
+    "question": "What strategies help you detect flawed logic early?"
+  },
+  {
+    "level": "C2",
+    "question": "What strategies help you integrate conflicting viewpoints?"
+  },
+  {
+    "level": "C2",
+    "question": "What strategies prevent analysis from becoming self-referential?"
+  },
+  {
+    "level": "C2",
+    "question": "What approaches help maintain intellectual integrity in debate?"
+  },
+  {
+    "level": "C2",
+    "question": "What approaches reduce defensiveness during disagreement?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you evaluate claims in areas beyond your expertise?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you decide when expertise becomes dogma?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you test the limits of your understanding?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you respond when evidence challenges your worldview?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you engage with ideas you strongly disagree with?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you maintain openness without drifting into relativism?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you communicate nuance without diluting meaning?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you simplify complexity without distorting it?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you recognize when persuasion replaces understanding?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you disengage from unproductive intellectual conflict?"
+  },
+  {
+    "level": "C2",
+    "question": "What conversations sharpen your thinking the most?"
+  },
+  {
+    "level": "C2",
+    "question": "What discussions reveal hidden value systems?"
+  },
+  {
+    "level": "C2",
+    "question": "What dialogues expose conceptual blind spots?"
+  },
+  {
+    "level": "C2",
+    "question": "What exchanges shift your perspective incrementally rather than dramatically?"
+  },
+  {
+    "level": "C2",
+    "question": "What conversations leave unresolved but fruitful questions?"
+  },
+  {
+    "level": "C2",
+    "question": "What ideas challenge you precisely because they are partially convincing?"
+  },
+  {
+    "level": "C2",
+    "question": "What beliefs remain tentative despite long reflection?"
+  },
+  {
+    "level": "C2",
+    "question": "What concepts resist stable definition?"
+  },
+  {
+    "level": "C2",
+    "question": "Who has most influenced how you think rather than what you think?"
+  },
+  {
+    "level": "C2",
+    "question": "Who challenges your reasoning without triggering defensiveness?"
+  },
+  {
+    "level": "C2",
+    "question": "Who helps you refine ideas through questioning rather than answers?"
+  },
+  {
+    "level": "C2",
+    "question": "Who has shaped your intellectual discipline indirectly?"
+  },
+  {
+    "level": "C2",
+    "question": "Who models intellectual integrity in practice?"
+  },
+  {
+    "level": "C2",
+    "question": "Where do you find conditions that support sustained deep thinking?"
+  },
+  {
+    "level": "C2",
+    "question": "Where does your thinking become more synthetic than analytical?"
+  },
+  {
+    "level": "C2",
+    "question": "Where do you tend to oversimplify?"
+  },
+  {
+    "level": "C2",
+    "question": "Where does complexity feel most manageable to you?"
+  },
+  {
+    "level": "C2",
+    "question": "Where does your thinking become most flexible?"
+  },
+  {
+    "level": "C2",
+    "question": "Where do you feel conceptually constrained?"
+  },
+  {
+    "level": "C2",
+    "question": "Where does reflection become most productive?"
+  },
+  {
+    "level": "C2",
+    "question": "Where does overthinking most often occur?"
+  },
+  {
+    "level": "C2",
+    "question": "Where do insights tend to emerge unexpectedly?"
+  },
+  {
+    "level": "C2",
+    "question": "Where do ideas feel most provisional?"
+  },
+  {
+    "level": "C2",
+    "question": "When do you notice reasoning becoming emotionally driven?"
+  },
+  {
+    "level": "C2",
+    "question": "When does intuition outperform deliberate analysis for you?"
+  },
+  {
+    "level": "C2",
+    "question": "When do you recognize diminishing returns in further analysis?"
+  },
+  {
+    "level": "C2",
+    "question": "When does reflection need to give way to action?"
+  },
+  {
+    "level": "C2",
+    "question": "When did you last revise a core belief incrementally?"
+  },
+  {
+    "level": "C2",
+    "question": "When did you last accept uncertainty without discomfort?"
+  },
+  {
+    "level": "C2",
+    "question": "When did complexity clarify rather than confuse?"
+  },
+  {
+    "level": "C2",
+    "question": "When did ambiguity improve understanding?"
+  },
+  {
+    "level": "C2",
+    "question": "When did questioning prove more valuable than answers?"
+  },
+  {
+    "level": "C2",
+    "question": "Why do humans seek certainty even when it misleads?"
+  },
+  {
+    "level": "C2",
+    "question": "Why does complexity often provoke resistance?"
+  },
+  {
+    "level": "C2",
+    "question": "Why do simple narratives persist despite complex realities?"
+  },
+  {
+    "level": "C2",
+    "question": "Why do intelligent people defend weak positions?"
+  },
+  {
+    "level": "C2",
+    "question": "Why does disagreement often escalate unnecessarily?"
+  },
+  {
+    "level": "C2",
+    "question": "Why does nuance struggle to survive public discourse?"
+  },
+  {
+    "level": "C2",
+    "question": "Why is ambiguity often perceived as weakness?"
+  },
+  {
+    "level": "C2",
+    "question": "Why does insight rarely feel conclusive?"
+  },
+  {
+    "level": "C2",
+    "question": "Why does understanding sometimes increase doubt?"
+  },
+  {
+    "level": "C2",
+    "question": "Why is intellectual restraint difficult to practice?"
+  },
+  {
+    "level": "C2",
+    "question": "What have you learned about the limits of explanation?"
+  },
+  {
+    "level": "C2",
+    "question": "What have you learned about the costs of overconfidence?"
+  },
+  {
+    "level": "C2",
+    "question": "What have you learned about the fragility of rationality?"
+  },
+  {
+    "level": "C2",
+    "question": "What realizations required sustained discomfort?"
+  },
+  {
+    "level": "C2",
+    "question": "What assumptions dissolved gradually rather than suddenly?"
+  },
+  {
+    "level": "C2",
+    "question": "What beliefs have become more conditional over time?"
+  },
+  {
+    "level": "C2",
+    "question": "What ideas lost certainty but gained usefulness?"
+  },
+  {
+    "level": "C2",
+    "question": "What perspectives became clearer only after contradiction?"
+  },
+  {
+    "level": "C2",
+    "question": "What insights emerged indirectly rather than deliberately?"
+  },
+  {
+    "level": "C2",
+    "question": "What understanding came through synthesis rather than analysis?"
+  },
+  {
+    "level": "C2",
+    "question": "What are you currently questioning at a foundational level?"
+  },
+  {
+    "level": "C2",
+    "question": "What assumptions are you actively suspending?"
+  },
+  {
+    "level": "C2",
+    "question": "What conceptual frameworks are you reassessing?"
+  },
+  {
+    "level": "C2",
+    "question": "What distinctions are becoming increasingly important to you?"
+  },
+  {
+    "level": "C2",
+    "question": "What categories no longer seem sufficient?"
+  },
+  {
+    "level": "C2",
+    "question": "What definitions feel increasingly unstable?"
+  },
+  {
+    "level": "C2",
+    "question": "What tensions are you learning to hold rather than resolve?"
+  },
+  {
+    "level": "C2",
+    "question": "What uncertainties are you learning to tolerate productively?"
+  },
+  {
+    "level": "C2",
+    "question": "What complexities are you learning to navigate without closure?"
+  },
+  {
+    "level": "C2",
+    "question": "What ambiguities now feel informative rather than problematic?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you decide when to stop refining an idea?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you recognize when clarity becomes oversimplification?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you evaluate intellectual progress without clear metrics?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you reconcile competing explanatory models?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you manage the emotional dimension of complex reasoning?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you prevent abstraction from detaching from reality?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you remain intellectually honest under social pressure?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you detect when reasoning serves identity rather than truth?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you preserve nuance in binary environments?"
+  },
+  {
+    "level": "C2",
+    "question": "How do you cultivate depth without elitism?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your thinking changed as problems grew more complex?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your approach to disagreement matured?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your understanding of objectivity evolved?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your tolerance for unresolved questions increased?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your intellectual confidence become more provisional?"
+  },
+  {
+    "level": "C2",
+    "question": "How has experience reshaped your standards of evidence?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your thinking become more integrative?"
+  },
+  {
+    "level": "C2",
+    "question": "How has reflection changed the way you act?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your relationship with knowledge itself changed?"
+  },
+  {
+    "level": "C2",
+    "question": "How has your understanding of understanding evolved?"
+  },
+  {
+    "level": "C2",
+    "question": "What would you reconsider if coherence were not required?"
+  },
+  {
+    "level": "C2",
+    "question": "What would change if certainty were no longer prioritized?"
+  },
+  {
+    "level": "C2",
+    "question": "What would improve if ambiguity were embraced more openly?"
+  },
+  {
+    "level": "C2",
+    "question": "What would become possible if complexity were not feared?"
+  },
+  {
+    "level": "C2",
+    "question": "What would shift if questions were valued over answers?"
+  },
+  {
+    "level": "C2",
+    "question": "What would be lost if everything had to be resolved?"
+  },
+  {
+    "level": "C2",
+    "question": "What would you preserve even if it resisted explanation?"
+  },
+  {
+    "level": "C2",
+    "question": "What would you defend despite its ambiguity?"
+  },
+  {
+    "level": "C2",
+    "question": "What would you question even if it felt foundational?"
+  },
+  {
+    "level": "C2",
+    "question": "What would you leave intentionally unresolved?"
+  }
+]
